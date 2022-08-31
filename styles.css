@@ -48,10 +48,6 @@ body{
     margin-bottom: 10px;
 }
 .img-divider{
-    background-image: url("./images/pattern-divider-mobile.svg");
-    background-position: absolute;
-    background-repeat: no-repeat;
-    background-size: cover;
     width: 97%;
     height: 14px;
     margin-top: 15px;
@@ -74,10 +70,6 @@ button:hover{
     background-color: var(--Grayish-Blue);
 }
 .img-dice{
-    background-image: url("./images/icon-dice.svg");
-    background-position: absolute;
-    background-repeat: no-repeat;
-    background-size: cover;
     height: 14px;
     width: 14px;
 }
